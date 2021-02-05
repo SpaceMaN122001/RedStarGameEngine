@@ -1,0 +1,5 @@
+@Id=object
+@Texture=res\air.png
+@XPos=10
+@YPos=10
+@IsRender=True

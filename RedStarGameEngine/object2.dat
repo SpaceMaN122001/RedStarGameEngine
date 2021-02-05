@@ -1,0 +1,5 @@
+@Id=object2
+@Texture=res\Texture1.png
+@XPos=90
+@YPos=90
+@IsRender=True

@@ -1,0 +1,6 @@
+@Id=player1
+@Texture=res\SpaceAir.png
+@XPos=90
+@YPos=90
+@IsRender=True
+@Health=50
